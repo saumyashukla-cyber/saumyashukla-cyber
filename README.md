@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Saumya Shukla 👋
 
-<!--
-**saumyashukla-cyber/saumyashukla-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring IT Support Analyst | Cybersecurity Fresher | SOC Analyst
 
-Here are some ideas to get you started:
+I am transitioning into IT and cybersecurity from a Forensic Science background. I have completed cybersecurity training and am developing practical skills through hands-on labs and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Operating Systems:** Linux, Windows fundamentals
+- **Networking:** TCP/IP, DNS, DHCP, IP addressing
+- **Cybersecurity:** Security fundamentals, phishing investigation, log analysis
+- **Tools:** Wireshark, Nmap, Burp Suite, Splunk
+- **Other Skills:** Troubleshooting, documentation, incident reporting
+
+### 📂 Projects
+- Linux Command-Line Practice
+- Network Troubleshooting Lab
+- Phishing Email Investigation
+- Failed Login Log Analysis
+
+### 🎯 Career Goal
+Seeking entry-level opportunities in IT Support, Service Desk, Technical Support, or SOC Analysis.
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/saumyashuklacyber
+- GitHub: https://github.com/saumyashukla-cyber
+
+*I am continuously learning and adding practical projects to my portfolio.*
